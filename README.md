@@ -37,7 +37,7 @@ A demas de generar codigos, ocupamos bootstrap, los cuales se muestran a continu
 Aqui se muestra el link para bootstrap que ayuda en los estilos para las paginas.\
 https://getbootstrap.com/docs/5.3/getting-started/download/ \
 Aqui se muestra el link para utilizar iconos de bootstrap en las paginas.\
-https://icons.getbootstrap.com/ \
+https://icons.getbootstrap.com/
 
 Dicho comparto todos nuestros codigos para que puedan apoyarse para el desarrolo de una aplicacion y puede crecer aun mas.\
 Podemos comenzar a mostrar el funcionamiento de nuestra version de una red social.\
