@@ -21,5 +21,5 @@ Aqui se muestra el link para utilizar iconos de bootstrap en las paginas.\
 https://icons.getbootstrap.com/\
 
 Dicho comparto todos nuestros codigos para que puedan apoyarse para el desarrolo de una aplicacion y puede crecer aun mas.\
-Podemos comenzar a mostrar el funcionamiento de nuestra version de una red social.\
+Podemos comenzar a mostrar el funcionamiento de nuestra version de una red social. \
 
