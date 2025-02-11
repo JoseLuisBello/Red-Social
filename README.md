@@ -53,7 +53,7 @@ Recuerda que cada uno de los archivos debe siempre contener la conexion a la bas
 1.- El registro de un nuevo Usuario.
 
 ![image](https://github.com/user-attachments/assets/c2b0bd15-158e-4cb9-b171-b0d04fdc4aff)
-Para este codigo se realizo el codigo llamado index2.php el cual ya se encuentra subido en este repositorio.
+Para este codigo se realizo el codigo llamado index2.php el cual ya se encuentra subido en este repositorio.\
 2.- Esta parte es donde se configura el resto del perfil.
 
 ![image](https://github.com/user-attachments/assets/9012a45b-8a03-4d40-a49c-c7b1c4261aaf)
