@@ -1,5 +1,5 @@
 # Red-Social
-Este es un proyecto realizado con los lenguajes JavaScript, PHP, y SQL, usando apoyo de CSS, Bootstrap, HTML para
+Este es un proyecto realizado con los lenguajes JS (JavaScript), PHP (Hypertext Pre-Processor), y SQL (Structured Query Lenguage), usando apoyo de CSS, Bootstrap, HTML para
 una visualización de los aspectos de la pagina web.
 
 Este codigo se creo teniendo en mente y siendo inspirados en las redes sociales Instagram y X (Twitter antes)
