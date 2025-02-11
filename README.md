@@ -23,10 +23,66 @@ https://icons.getbootstrap.com/\
 Dicho comparto todos nuestros codigos para que puedan apoyarse para el desarrolo de una aplicacion y puede crecer aun mas.\
 Podemos comenzar a mostrar el funcionamiento de nuestra version de una red social.\
 La red social tiene dos formas de ingresar al inicio las cuales son las siguientes\
-\1.- El registro de un nuevo Usuario.\\
-![image](https://github.com/user-attachments/assets/46565f60-3793-41d4-82c8-e976d9fa8296)
-\\2.- El ingrespo mediante inicio de sesion.\\
-![image](https://github.com/user-attachments/assets/41a14d18-48eb-4068-87ec-12d2b44ac13d)
+
+1.- El registro de un nuevo Usuario.
+
+![image](https://github.com/user-attachments/assets/c2b0bd15-158e-4cb9-b171-b0d04fdc4aff)
+
+2.- Esta parte es donde se configura el resto del perfil.
+
+![image](https://github.com/user-attachments/assets/9012a45b-8a03-4d40-a49c-c7b1c4261aaf)
+
+3.- El ingrespo mediante inicio de sesion.
+
+![image](https://github.com/user-attachments/assets/994359d3-d1a1-448a-b4ed-48369007a477)
+
+despues de esto, ingresamos al inicio de la aplicacion la cual es el Home donde se visualizan todas las publicaciones de los usuarios en la base de datos:
+
+![image](https://github.com/user-attachments/assets/76570bff-e141-4cd9-8cfc-e99dccb01af2)
+
+El perfil de cada usuario se ve de esta manera.
+
+![image](https://github.com/user-attachments/assets/31822015-98a2-4c47-ab1d-13de525ea41e)
+
+El recuadro dorado es un boton el cual permite crear una nueva publicacion, al precionarlo se ve de la siguiente manera.
+
+![image](https://github.com/user-attachments/assets/46d3ad54-7e20-4264-9c9d-56b3dbb8bdd4)
+
+Al regresar al inicio de la pagina web, y entrar a la opcion "personas que quizas conozcas" se muestra lo siguiente.\
+Que aqui se muestran los usuarios que estan creados en la base de datos y no son tus amigos.
+
+![image](https://github.com/user-attachments/assets/22e851e8-ea42-4c97-b3d9-1752cb927f20)
+
+Esta parte permite agregar a un nuevo amigo al usuario logeado en ese momento.
+
+Por otro lado al precionar la opcion "Amigos", muestra a los amigos del usuario logeado en ese momento.
+
+![image](https://github.com/user-attachments/assets/bc5b87ab-5ebb-4db1-b41a-c93ab484acbb)
+
+Aqui tambien da la opcion de poder eliminar a uno de los amigos que se tienen.
+
+Por otro lado al ingresar a la opcion de "Mensajes", muestra los chats disponibles con los amigos que se tienen.
+
+![image](https://github.com/user-attachments/assets/a2a642c3-00a7-4419-a335-25867ea337be)
+
+Al ingresar en cualquiera de los chats disponibles se muestra lo siguiente si es que existe convensarcion, es decir se precargan los mensajes anteriores.
+
+![image](https://github.com/user-attachments/assets/c824b3d0-d8f3-4623-ac51-ecb63bd7aa34)
+
+Cuando no existen conversacion anterior se visualiza de la siguiente manera.
+
+![image](https://github.com/user-attachments/assets/2a39abcd-ff65-41cc-9d56-ad4782f5763c)
+
+AL precionar la opcion de cerrar sesion te redirige al regitro de un nuevo usuario.
+
+![image](https://github.com/user-attachments/assets/f3d3a1e6-1fa1-4bd2-8531-ff3d9c502a90)
+
+![image](https://github.com/user-attachments/assets/d4e2f31b-d521-4eb3-a281-46f49d11e7a8)
+
+
+
+
+
 
 
 
