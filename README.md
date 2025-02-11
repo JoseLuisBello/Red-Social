@@ -9,11 +9,30 @@ proyecto.
 ![image](https://github.com/user-attachments/assets/f8c73a3e-f972-4d47-85aa-1f0ccc87f25b)
 
 Despues de esto se comenzo la realizacion de la conexion a la base de datos mediante PHP creando un archivo .php
-este programa es:
+este programa es la conexion.
+
+Esta es una de muchas ideas de como realizar una conexion a una base de datos:
 
     <?php
     $conex = mysqli_connect("localhost","root","","redsocial");
     ?>
+
+Otra idea para una conexion es esta.
+
+    <?php
+    $host = "localhost";
+    $dbname = "database";
+    $user = "root";
+    $password = "root";
+    
+    try{
+        $pdo = PDO("mysql:host=$host;dbname=$dbname", $user, $password);
+        $pdo->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
+    }catch(PDOException $e){
+        die("Error en la conexion ". $e->getMessage());
+    }
+    ?>
+
 A demas de generar codigos, ocupamos bootstrap, los cuales se muestran a continuacion.\
 Aqui se muestra el link para bootstrap que ayuda en los estilos para las paginas.\
 https://getbootstrap.com/docs/5.3/getting-started/download/ \
@@ -24,10 +43,17 @@ Dicho comparto todos nuestros codigos para que puedan apoyarse para el desarrolo
 Podemos comenzar a mostrar el funcionamiento de nuestra version de una red social.\
 La red social tiene dos formas de ingresar al inicio las cuales son las siguientes\
 
+Recuerda que cada uno de los archivos debe siempre contener la conexion a la base de datos para evitar errores, toma como ejemplo el siguiente codigo para ser adaptado.
+
+    <?php
+    session_start();
+    include("con_db.php");
+    ?>
+
 1.- El registro de un nuevo Usuario.
 
 ![image](https://github.com/user-attachments/assets/c2b0bd15-158e-4cb9-b171-b0d04fdc4aff)
-
+Para este codigo se realizo el codigo llamado index2.php el cual ya se encuentra subido en este repositorio.
 2.- Esta parte es donde se configura el resto del perfil.
 
 ![image](https://github.com/user-attachments/assets/9012a45b-8a03-4d40-a49c-c7b1c4261aaf)
